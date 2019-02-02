@@ -2,6 +2,10 @@
 
 This documents the actual analysis for our Collabra paper. You can read and download it at: [www.collabra.org/articles/10.1525/collabra.87](https://www.collabra.org/articles/10.1525/collabra.87).
 
+In this paper, we discuss an experiment on brain data recorded while humans read sentences with syntactic errors and common vs. infrequent verbs. Analysing the brain data (EEG), we find different responses to errors for common vs. infrequent verbs.
+
+The Jupyter Notebook plus the epoch files are sufficient to reproduce the analyses in the paper. If you have Conda installed, the only dependency is [MNE-Python](https://github.com/mne-tools/mne-python).
+
 **Frequency Sensitivity of Neural Responses to English Verb Argument Structure Violations**
 
 ## Abstract
