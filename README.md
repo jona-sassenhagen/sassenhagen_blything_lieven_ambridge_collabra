@@ -9,7 +9,7 @@ The Jupyter Notebook plus the epoch files are sufficient to reproduce the analys
 
 
 
-## Frequency Sensitivity of Neural Responses to English Verb Argument Structure Violations**
+## Frequency Sensitivity of Neural Responses to English Verb Argument Structure Violations
 Jona Sassenhagen, Ryan Blything, Elena Lieven, Ben Ambridge
 
 ### Abstract
